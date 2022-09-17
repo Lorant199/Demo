@@ -1,0 +1,9 @@
+body {
+    font-family: 'Times New Roman', Times, serif; font-weight: bold;
+    color: rgb(215, 82, 220);
+
+} /* Applying Styles For Body Part */
+h1, h2, h3{color: rgb(62, 209, 219);text-decoration: underline;}
+div 
+{color: rgb(86, 129, 211);}
+td {font-size:20px ; color: blue;}

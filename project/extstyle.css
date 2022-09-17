@@ -1,0 +1,21 @@
+#style1
+{
+color:red;
+font-size:20pt; text-decoration:underline;
+}
+.style2
+{
+color:blue;
+font-size:25pt;
+font-weight:bold;
+}
+.style3
+{ color: blueviolet;
+font-size: xx-large;
+}
+.style4 {
+    color: yellowgreen;
+    font-size: larger;
+    text-align:right
+    
+}
